@@ -1,0 +1,60 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #333;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fitma {
+    width: 120px;
+    height: 180px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.piece {
+    width: 60px;
+    height: 60px;
+}
+
+.pieceone {
+
+    background-color: #EE4E2A;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+
+}
+.piecetwo {
+
+    background-color: #FB7266;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+
+}
+.piecethree {
+    background-color: #A061FA;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+
+}
+
+.piecefour {
+
+    background-color: #2EBDFA;
+    border-radius: 50%;
+
+}
+
+.piecefive {
+
+    background-color: #00CE84;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+
+}
